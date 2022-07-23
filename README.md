@@ -1,8 +1,5 @@
 # MERN JWT Auth
 
-[![GitHub license](https://img.shields.io/github/license/vishalnagda1/mern-jwt-auth?style=plastic)](https://github.com/vishalnagda1/mern-jwt-auth/blob/master/LICENSE) [![Repository version](https://img.shields.io/badge/version-2.0.0-brightgreen?style=plastic)](https://github.com/vishalnagda1/mern-jwt-auth/releases/tag/v2.0.0)
-
-
 MERN JWT Auth is a minimal full-stack login/authorization app developed using the `MERN` stack (`MongoDB` for our database, `Express` and `Node` for our backend, and `React` for our frontend). Also integrate `Redux` for state management for our `React` components.
 
 **MERN JWT Auth app will allow users to**
@@ -39,16 +36,16 @@ Lastly, make sure you have the following installed.
    - Clone with HTTPS *(required [git](https://git-scm.com/) installed in your system)*
 
      ```shell
-     git clone https://github.com/vishalnagda1/mern-jwt-auth.git
+     git clone https://github.com/talent493/mern-jwt-auth.git
      ```
 
    - Clone with SSH *(required [git](https://git-scm.com/) installed in your system)*
 
      ```sh
-     git clone git@github.com:vishalnagda1/mern-jwt-auth.git
+     git clone git@github.com:talent493/mern-jwt-auth.git
      ```
 
-   - [Download Zip](https://github.com/vishalnagda1/mern-jwt-auth/archive/master.zip)
+   - [Download Zip](https://github.com/talent493/mern-jwt-auth/archive/master.zip)
 
 2. Navigate to project directory in the terminal or command prompt.
 
@@ -144,7 +141,7 @@ Lastly, make sure you have the following installed.
 
      ```json
      {
-         "name": "Vishal",
+         "name": "Ming",
          "email": "test@test.com",
          "password": "test123",
          "password2": "test123"
@@ -170,7 +167,7 @@ Lastly, make sure you have the following installed.
 
 #### Contributing
 
-1. Fork it ( https://github.com/vishalnagda1/mern-jwt-auth/fork )
+1. Fork it ( https://github.com/talent493/mern-jwt-auth/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
